@@ -1,0 +1,9 @@
+[submodule "third-party/zlib"]
+	path = third-party/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "third-party/libuv"]
+	path = third-party/libuv
+	url = https://github.com/libuv/libuv.git
+[submodule "third-party/maplibre-native-ffi"]
+	path = third-party/maplibre-native-ffi
+	url = https://github.com/maplibre/maplibre-native-ffi.git
